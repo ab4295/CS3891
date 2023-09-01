@@ -1,1 +1,1 @@
-# CS3891
+# CS3891: Modern Programming Language
